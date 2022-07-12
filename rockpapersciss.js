@@ -81,10 +81,3 @@ function determinador(p1, p2) {
 }
 
 
-/*piedra.addEventListener('click', () => {
-    playRound(1, computerPlay());})
-papel.addEventListener('click', () => {
-    playRound(2, computerPlay());})
-tijera.addEventListener('click', () => {
-    playRound(3, computerPlay());})*/
-
